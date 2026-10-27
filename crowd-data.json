@@ -1,5 +1,5 @@
 {
- "version": "prototype-2026-10-26",
+ "version": "prototype-2026-10-27",
  "checked": "2026-10-26",
  "levels": [
   "Quiet",
@@ -343,6 +343,16 @@
     "shape": "museum",
     "week": "tourist",
     "peak": 100
+   },
+   "offer": {
+    "kind": "slot",
+    "price": 62,
+    "with_pass": "included",
+    "title": "Topkapı Palace Museum Hosted Entry with Audio Guide",
+    "line": "Your pass includes a 30-minute hosted entry with audio guide that skips the ticket line, at 09:00, 10:00, 11:00, 11:30, 13:00, 14:00 and 15:00. Pick 09:00 for the quietest hour. The Harem is not included.",
+    "slug": "topkapi-palace-museum",
+    "url": "https://istanbultouristpass.com/topkapi-palace-museum",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -670,6 +680,16 @@
     "shape": "museum",
     "week": "tourist",
     "peak": 100
+   },
+   "offer": {
+    "kind": "slot",
+    "price": 35,
+    "with_pass": "included",
+    "title": "Hagia Sophia Guided Tour with Skip-the-Ticket-Line Entry",
+    "line": "Your pass includes a guided tour with skip-the-ticket-line entry, every day except Fridays, at 09:00, 11:45 and 15:15. The 09:00 tour starts in the quietest hour.",
+    "slug": "hagia-sophia-museum",
+    "url": "https://istanbultouristpass.com/hagia-sophia-museum",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -1033,6 +1053,16 @@
     "shape": "museum",
     "week": "tourist",
     "peak": 100
+   },
+   "offer": {
+    "kind": "slot",
+    "price": 56,
+    "with_pass": "included",
+    "title": "Basilica Cistern Guided Tour with Skip-the-Ticket-Line Entry",
+    "line": "Your pass includes a guided tour with skip-the-ticket-line entry, every day except Fridays, at 10:30 and 16:30. The 16:30 tour falls in the calmer late afternoon.",
+    "slug": "basilica-cistern",
+    "url": "https://istanbultouristpass.com/basilica-cistern",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -1396,6 +1426,16 @@
     "shape": "mosque",
     "week": "tourist",
     "peak": 95
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 20,
+    "with_pass": "included",
+    "title": "Blue Mosque Guided Tour",
+    "line": "Entry to the mosque is free. Your pass adds a guided tour, every day except Fridays.",
+    "slug": "blue-mosque-guided-tour",
+    "url": "https://istanbultouristpass.com/blue-mosque-guided-tour",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -1759,6 +1799,16 @@
     "shape": "quiet",
     "week": "tourist",
     "peak": 60
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 20,
+    "with_pass": "included",
+    "title": "Istanbul Archaeological Museums Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "istanbul-archaeological-museums-skip-the-ticket-line-entry-with-audio-guide",
+    "url": "https://istanbultouristpass.com/istanbul-archaeological-museums-skip-the-ticket-line-entry-with-audio-guide",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -2122,6 +2172,16 @@
     "shape": "quiet",
     "week": "tourist",
     "peak": 52
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 23,
+    "with_pass": "included",
+    "title": "Turkish and Islamic Arts Museum Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "turkish-and-islamic-arts-museum-skip-the-ticket-line-entry-with-audio-guide",
+    "url": "https://istanbultouristpass.com/turkish-and-islamic-arts-museum-skip-the-ticket-line-entry-with-audio-guide",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -2453,6 +2513,16 @@
     "shape": "palace",
     "week": "mixed",
     "peak": 88
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 52,
+    "with_pass": "included",
+    "title": "Dolmabahce Palace Museum Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "dolmabahce-palace-museum",
+    "url": "https://istanbultouristpass.com/dolmabahce-palace-museum",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -2784,6 +2854,16 @@
     "shape": "palace",
     "week": "mixed",
     "peak": 55
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 18,
+    "with_pass": "included",
+    "title": "Beylerbeyi Palace Museum Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "beylerbeyi-palace-museum-walking-tour-with-audio-guide",
+    "url": "https://istanbultouristpass.com/beylerbeyi-palace-museum-walking-tour-with-audio-guide",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -3115,6 +3195,16 @@
     "shape": "quiet",
     "week": "mixed",
     "peak": 42
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 25,
+    "with_pass": "included",
+    "title": "Yildiz Palace Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "yildiz-palace-istanbul",
+    "url": "https://istanbultouristpass.com/yildiz-palace-istanbul",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -3478,6 +3568,16 @@
     "shape": "local",
     "week": "local",
     "peak": 80
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 10,
+    "with_pass": "included",
+    "title": "Ortakoy Mosque Walking Tour with Audio Guide",
+    "line": "Entry to the mosque is free. Your pass adds a walking tour with audio guide.",
+    "slug": "ortakoy-mosque",
+    "url": "https://istanbultouristpass.com/ortakoy-mosque",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -3799,6 +3899,16 @@
     "shape": "quiet",
     "week": "local",
     "peak": 50
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 8,
+    "with_pass": "included",
+    "title": "Rumeli Fortress Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Your pass includes skip-the-ticket-line entry with audio guide. Our pass page currently notes restoration work, with access limited to the courtyard, so check before you go.",
+    "slug": "rumeli-fortress-walking-tour-with-audio-guide",
+    "url": "https://istanbultouristpass.com/rumeli-fortress-walking-tour-with-audio-guide",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -4315,6 +4425,16 @@
     "shape": "galata",
     "week": "mixed",
     "peak": 100
+   },
+   "offer": {
+    "kind": "slot",
+    "price": 40,
+    "with_pass": 30,
+    "title": "Galata Tower Hosted Entry with Audio Guide",
+    "line": "Hosted entry with audio guide that skips the ticket line costs €30 with the pass instead of €40. It runs every day except Fridays, at 10:00, 11:00, 13:30 and 15:00, all before the sunset peak.",
+    "slug": "galata-tower",
+    "url": "https://istanbultouristpass.com/galata-tower",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -4709,6 +4829,16 @@
     "shape": "evening",
     "week": "local",
     "peak": 75
+   },
+   "offer": {
+    "kind": "ticket",
+    "price": 17,
+    "with_pass": "included",
+    "title": "Museum of Illusions Istanbul Entry Ticket",
+    "line": "Your pass includes the entry ticket.",
+    "slug": "museum-of-illusions-istanbul",
+    "url": "https://istanbultouristpass.com/museum-of-illusions-istanbul",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -4725,7 +4855,7 @@
     15,
     16
    ],
-   "hours": "09:00–18:00 (last ticket 17:00); boat from Salacak",
+   "hours": "09:00–18:00 (last ticket 17:00); boats from Karaköy and Salacak",
    "closed": [],
    "visit": "1–1.5 hours with the boat",
    "source": {
@@ -4735,7 +4865,7 @@
    },
    "guide": "https://istanbul.com/maidens-tower",
    "product": "https://istanbultouristpass.com/maidens-tower",
-   "answer": "Take the first boats around 09:00; midday on weekends is the busiest.",
+   "answer": "Take one of the first boats of the morning; midday on weekends is the busiest.",
    "visitors": {
     "value": 246047,
     "year": 2025,
@@ -5045,6 +5175,16 @@
     "shape": "boat",
     "week": "mixed",
     "peak": 70
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 34,
+    "with_pass": "included",
+    "title": "Maiden's Tower Skip-the-Ticket-Line Entry with Audio Guide",
+    "line": "Your pass includes skip-the-ticket-line entry with audio guide. Boats leave Karaköy at 09:30, 11:00, 12:30, 14:00, 15:30 and 17:00; take the 09:30 boat for the quietest visit. The boat ticket is bought separately at the pier.",
+    "slug": "maidens-tower",
+    "url": "https://istanbultouristpass.com/maidens-tower",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -5489,6 +5629,16 @@
     "shape": "spice",
     "week": "mixed",
     "peak": 100
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 10,
+    "with_pass": "included",
+    "title": "The Spice Bazaar Walking Tour with Audio Guide",
+    "line": "Entry to the bazaar is free. Your pass adds a walking tour with audio guide.",
+    "slug": "spice-bazaar",
+    "url": "https://istanbultouristpass.com/spice-bazaar",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -5881,6 +6031,16 @@
     "shape": "grand",
     "week": "mixed",
     "peak": 95
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 10,
+    "with_pass": "included",
+    "title": "Grand Bazaar Walking Tour with Audio Guide",
+    "line": "Entry to the bazaar is free. Your pass adds a walking tour with audio guide.",
+    "slug": "grand-bazaar",
+    "url": "https://istanbultouristpass.com/grand-bazaar",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -6244,6 +6404,16 @@
     "shape": "mosque",
     "week": "mixed",
     "peak": 65
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 10,
+    "with_pass": "included",
+    "title": "Suleymaniye Mosque Audio-Guided Tour",
+    "line": "Entry to the mosque is free. Your pass adds an audio-guided tour.",
+    "slug": "suleymaniye-mosque",
+    "url": "https://istanbultouristpass.com/suleymaniye-mosque",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -6601,6 +6771,16 @@
     "shape": "quiet",
     "week": "tourist",
     "peak": 45
+   },
+   "offer": {
+    "kind": "ticket",
+    "price": 27,
+    "with_pass": "included",
+    "title": "Chora Church Museum Tickets and Audio Guide",
+    "line": "Your pass includes the museum ticket and an audio guide.",
+    "slug": "chora-church-museum",
+    "url": "https://istanbultouristpass.com/chora-church-museum",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -6964,6 +7144,16 @@
     "shape": "local",
     "week": "pilgrim",
     "peak": 72
+   },
+   "offer": {
+    "kind": "tour",
+    "price": 10,
+    "with_pass": "included",
+    "title": "Eyup Sultan Mosque Walking Tour with Audio Guide",
+    "line": "Entry to the mosque is free. Your pass adds a walking tour with audio guide.",
+    "slug": "eyup-sultan-mosque",
+    "url": "https://istanbultouristpass.com/eyup-sultan-mosque",
+    "checked": "2026-10-27"
    }
   },
   {
@@ -7285,6 +7475,16 @@
     "shape": "family",
     "week": "local",
     "peak": 62
+   },
+   "offer": {
+    "kind": "skip",
+    "price": 22,
+    "with_pass": "included",
+    "title": "Miniaturk Park Museum Skip the Ticket Line Entry with Audio Guide",
+    "line": "Can't make it at opening? Your pass includes skip-the-ticket-line entry with audio guide, so you avoid the ticket queue on busy days.",
+    "slug": "miniaturk",
+    "url": "https://istanbultouristpass.com/miniaturk",
+    "checked": "2026-10-27"
    }
   }
  ],
@@ -7330,7 +7530,7 @@
   "city": "Istanbul",
   "source": {
    "label": "Diyanet İşleri Başkanlığı",
-   "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9541/istanbul-icin-namaz-vakti",
+   "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9541/istanbul-namaz-vakitleri",
    "checked": "2026-10-26"
   },
   "names": [
